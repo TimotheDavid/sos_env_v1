@@ -1,0 +1,45 @@
+.button , .sol , .eau , .air {
+  background-color: red;
+  padding: 2em 3rem;
+  border-radius: 2em;
+  width: 15em;
+
+
+
+}
+
+.air , .sol , .eau {
+  text-align: center;
+  width: 20em;
+  padding: 2em;
+  margin: 0% -17%;
+
+
+}
+
+
+.eau{
+  background-color: blue;
+}
+
+.air{
+  background-color: red;
+}
+
+.air{
+  background-color: green;
+
+
+
+}
+
+.pollution{
+
+background-color: red;
+padding: 2em 1em;
+margin: 2em 4em;
+border-radius: 2em;
+width: 15em;
+
+
+}

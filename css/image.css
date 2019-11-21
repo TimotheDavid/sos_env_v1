@@ -1,0 +1,28 @@
+.firstimage{
+  height: 20%;
+  width: 20vh;
+
+}
+.photo{
+
+  height: 50vh;
+  width: 40vh;
+  background-color: black;
+  margin:  10% auto;
+
+}
+
+.picto{
+  height: auto;
+  width: 10vh;
+}
+
+.second{
+  height: 30vh;
+  width: auto;
+  margin: 0% 25%;
+
+
+
+
+}

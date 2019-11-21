@@ -1,0 +1,74 @@
+body{
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+
+p{
+  text-align: center;
+  margin: 10% auto;
+  font-size: 1rem;
+
+}
+
+.page{
+  text-align: center;
+  height: 100%;
+  margin-top: 20%;
+
+}
+
+.choix{
+  margin: 20%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+
+
+
+}
+
+.page11{
+height: 100vh;
+display: flex;
+flex-direction: column;
+justify-content:  start;
+margin: 0% auto;
+
+
+}
+
+.textpage11{
+  margin-top: 20%;
+
+
+}
+
+a{
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  font-size: 1rem;
+
+
+
+
+
+
+}
+.neutre {
+
+
+}
+form{
+height: 10vh;
+
+}
+
+textarea{
+height: 20vh;
+width: 80%;
+margin: 10%;
+
+
+}
